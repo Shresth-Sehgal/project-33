@@ -108,10 +108,10 @@ function draw() {
   
       }
 
-   //for (var k = 0; k < divisions.length; k++) 
-   //{
-   //  divisions[k].display();
-   //}
+   for (var k = 0; k < divisions.length; k++) 
+   {
+     divisions[k].display();
+   }
  
 }
 
